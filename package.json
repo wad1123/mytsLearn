@@ -1,0 +1,14 @@
+{
+  "name": "tslearn",
+  "version": "1.0.0",
+  "description": "",
+  "main": "01part.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "gulp-typescript": "^3.1.6"
+  }
+}
